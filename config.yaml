@@ -1,0 +1,3 @@
+paths:
+  rstudio_pandoc: "C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools"
+  rscript: "C:/Program Files/R/R-4.4.1/bin/Rscript.exe" 
