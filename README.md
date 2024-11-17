@@ -121,7 +121,15 @@ install.packages(c("rmarkdown", "knitr"))
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature
+3. Make your changes
+4. Submit a Pull Request
+5. Wait for review from the maintainer (@squigglykip)
+
+All pull requests require approval from the repository owner before merging.
 
 ## License
 
